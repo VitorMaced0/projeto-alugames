@@ -19,3 +19,11 @@ O objetivo é aplicar conceitos fundamentais de programação, como manipulaçã
 - Interatividade para alternar entre os status de "Alugar" e "Devolver".
 - Feedback visual ao alterar o status dos jogos.
 - Layout responsivo para diferentes tamanhos de tela.
+
+## 🛠️ Tecnologias usadas
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
